@@ -30,7 +30,7 @@ Then clone this repository using `git clone <git repo URL>`.
 6. From cmd or Powershell go to the directory where the Repository was cloned
 7. Type :
 
-` python FinalWebcam.py `
+   ` python FinalWebcam.py `
 
 8. Congratulations!! You now can detect circles in Real Time.
 
