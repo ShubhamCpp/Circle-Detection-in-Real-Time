@@ -22,9 +22,9 @@ Then clone this repository using `git clone <git repo URL>`.
 4. Install MatPlotLib (optional) but very useful
      For a complete step by step tutorial for setting up OpenCV visit :
 
-[OpenCV Setup Windows](http://docs.opencv.org/3.0-beta/doc/py_tutorials/py_setup/py_setup_in_windows/py_setup_in_windows.html#install-opencv-python-in-windows)
+     [OpenCV Setup Windows](http://docs.opencv.org/3.0-beta/doc/py_tutorials/py_setup/py_setup_in_windows/py_setup_in_windows.html#install-opencv-python-in-windows)
 
-[OpenCV Setup Fedora(Linux)](http://docs.opencv.org/3.0-beta/doc/py_tutorials/py_setup/py_setup_in_fedora/py_setup_in_fedora.html#install-opencv-python-in-fedora)
+     [OpenCV Setup Fedora(Linux)](http://docs.opencv.org/3.0-beta/doc/py_tutorials/py_setup/py_setup_in_fedora/py_setup_in_fedora.html#install-opencv-python-in-fedora)
 
 5. Add python from the installation directory to the set of Environment Variables ( for Windows). (Make sure you installed Python 2 and not 3)
 6. From cmd or Powershell go to the directory where the Repository was cloned
