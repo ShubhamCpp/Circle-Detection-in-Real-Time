@@ -6,7 +6,7 @@ If one wishes to use this on an Image or Saved Video, it can also be done with a
 
 ## Implementation
 
-#### Cloning this repository onto Edison
+#### Cloning this repository onto your Computer
 
 To install git:
 
